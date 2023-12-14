@@ -20,7 +20,7 @@ A large number of accidents are caused by drowsy driving. Our aim with this proj
 
 ### Model Building  
 
-We’ve used sequential model because it allows us to build the model layer by layer 
+used sequential model 
 
 We’ve built 4 convolutional layer we started first layer with 256 node followed by the second layer of 128 node, the third 32 node, and the last convolutional layer with 32 node and leakyrelu activation function 
 And applied max pooling layer, flatten layer 
